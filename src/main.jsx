@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { ThemeProvider } from 'styled-components'
+import { ThemeProvider } from 'styled-components' 
 
 import {AuthContext, AuthProvider} from './hooks/Auth'
 import GlobalStyles from './styles/global'
