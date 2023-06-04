@@ -12,7 +12,7 @@ import {api} from '../../services/api'
 
 import { Container, Form} from './styles'
 
-import { NoteItem } from '../../components/Noteitem'
+import { NoteItem } from '../../components/NoteItem'
 
 
 
